@@ -1,0 +1,6 @@
+{
+  "name": "SimplifAI",
+  "description": "An AI-powered question simplifier designed to break down complex concepts into digestible, bite-sized explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
