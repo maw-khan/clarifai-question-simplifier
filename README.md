@@ -290,7 +290,7 @@ images/about.png
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/maw-khan/clarifai-question-simplifier
 ```
 
 ### 2. Navigate into the Project
@@ -354,7 +354,7 @@ This project demonstrates:
 
 **Muhammad Ali Waris Khan**
 
-Final Project for the ** ACT-AI Course**
+Final Project for the **ACT-AI Course**
 
 ---
 
