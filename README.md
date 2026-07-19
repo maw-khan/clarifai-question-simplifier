@@ -59,7 +59,7 @@ Instead of immediately providing the complete solution, the application encourag
 
 ### 💻 GitHub Repository
 
-👉 **YOUR_GITHUB_REPOSITORY_URL**
+👉 **https://github.com/maw-khan/clarifai-question-simplifier**
 
 ---
 
