@@ -1,5 +1,5 @@
 ## Visualisation
-![Architecture](images/architecture.png)
+![Architecture](architecture.png)
 ----
 ![Home](home.png)
 
@@ -7,7 +7,7 @@
 ![SimplifAI](simplifai.png)
 
 ----
-![Results](results.png)
+![Result](result.png)
 
 -----
 ![About](about.png)
