@@ -255,7 +255,7 @@ Also provides:
 
 **Screenshot**
 
-![Result](images/Result.png)
+![Result](images/result.png)
 
 ---
 
