@@ -35,11 +35,11 @@ An AI-powered educational web application that helps students understand difficu
 
 # 📖 Overview
 
-ClarifAI is an AI-powered educational web application designed to help students better understand difficult study questions before attempting to solve them.
+SimplifAI is an AI-powered educational web application designed to help students better understand difficult study questions before attempting to solve them.
 
 Many students struggle not because they lack knowledge, but because they have difficulty understanding what a question is actually asking.
 
-ClarifAI addresses this problem by using **Google Gemini** to simplify complex academic questions into clear, easy-to-understand language while providing:
+SimplifAI addresses this problem by using **Google Gemini** to simplify complex academic questions into clear, easy-to-understand language while providing:
 
 - ✅ A simplified version of the question
 - ✅ A concise explanation
@@ -70,13 +70,13 @@ This often leads to confusion before they even begin solving the problem.
 
 Rather than immediately searching for complete solutions online, students first need help understanding what the question actually means.
 
-ClarifAI solves this problem by transforming difficult questions into simple language while preserving their original meaning.
+SimplifAI solves this problem by transforming difficult questions into simple language while preserving their original meaning.
 
 ---
 
 # 💡 Solution
 
-ClarifAI uses **Google Gemini AI** to analyze a student's question and generate four educational outputs:
+SimplifAI uses **Google Gemini AI** to analyze a student's question and generate four educational outputs:
 
 - Simplified Question
 - Explanation
@@ -89,7 +89,7 @@ This approach promotes learning and comprehension instead of answer memorization
 
 # 🎯 Target Users
 
-ClarifAI is designed for:
+SimplifAI is designed for:
 
 - School students
 - College students
@@ -153,7 +153,7 @@ Display:
 
 # 🤖 AI Feature
 
-The core functionality of ClarifAI is powered by **Google Gemini AI**.
+The core functionality of SimplifAI is powered by **Google Gemini AI**.
 
 Instead of generating complete answers, the model is instructed to act as an educational assistant whose purpose is to improve understanding.
 
