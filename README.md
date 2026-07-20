@@ -58,7 +58,7 @@ Instead of immediately providing the complete solution, the application encourag
 
 ### 💻 GitHub Repository
 
-👉 **https://github.com/maw-khan/clarifai-question-simplifier**
+👉 **https://github.com/maw-khan/simplifai-question-simplifier**
 
 ---
 
@@ -283,13 +283,13 @@ Provides information about:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/maw-khan/clarifai-question-simplifier
+git clone https://github.com/maw-khan/simplifai-question-simplifier
 ```
 
 ### 2. Navigate into the Project
 
 ```bash
-cd ClarifAI
+cd SimplifAI
 ```
 
 ### 3. Install Dependencies
