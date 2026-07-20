@@ -1,10 +1,13 @@
 ## Visualisation
-architecture.png
+![Architecture](images/architecture.png)
 ----
-home.png
+![Home](home.png)
+
 ----
-simplifai.png
+![SimplifAI](simplifai.png)
+
 ----
-results.png
+![Results](results.png)
+
 -----
-about.png
+![About](about.png)
